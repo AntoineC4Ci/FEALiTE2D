@@ -11,7 +11,7 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>engineering analysis beam frame finite-elements finite-element-analysis structural-engineering structural-analysis finite-element-methods civil-engineering truss 2d-frame structral DXF CAD</PackageTags>
 		<PackageProjectUrl>https://github.com/FEALiTE/FEALiTE2D</PackageProjectUrl>
-		<Version>1.1.2</Version>
+		<Version>1.2</Version>
 		<PackageReleaseNotes>corrected dxf plotting for inclined elements </PackageReleaseNotes>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
